@@ -3,3 +3,4 @@ Hello from Jenkins
 Hello Jenkins, welcome to automated build
 2nd automated build
 Commit to private repository
+2nd commit to private repository

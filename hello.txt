@@ -1,2 +1,3 @@
 Hello, this is the dev branch!
 Hello from Jenkins
+Hello Jenkins, welcome to automated build
